@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+
+h1{
+	text-align:center;
+}
+body{
+	background-color:#cccccc;
+}
+div{
+	background-color:white;
+}
+li{ list-style-type: none;
+   padding-bottom:10px;
+}
+h2{
+	text-align:center;
+}
+#def{
+	margin:0 auto;
+	vertical-align:middle;
+}
+	
